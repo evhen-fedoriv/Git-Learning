@@ -1,0 +1,30 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"coin_red_background","bone":"root","attachment":"coin_red_background"},
+	{"name":"coin_frame","bone":"root","attachment":"coin_frame"},
+	{"name":"coin_frame_light","bone":"root","attachment":"coin_frame_light"},
+	{"name":"coin_edge","bone":"root","attachment":"coin_edge"},
+	{"name":"coin_edge_light","bone":"root","attachment":"coin_edge_light"},
+	{"name":"coin_tails","bone":"root","attachment":"coin_tails"},
+	{"name":"coin_tails_light","bone":"root","attachment":"coin_tails_light"},
+	{"name":"coin_heads","bone":"root","attachment":"coin_heads"},
+	{"name":"coin_heads_light","bone":"root","attachment":"coin_heads_light"},
+	{"name":"highlight","bone":"root","attachment":"highlight"}
+],
+"skins":{
+	"default":{
+		"highlight":{"highlight":{"x":296,"y":638.5,"width":378,"height":165}},
+		"coin_heads_light":{"coin_heads_light":{"x":646,"y":617.5,"width":258,"height":259}},
+		"coin_heads":{"coin_heads":{"x":646,"y":228.5,"width":258,"height":259}},
+		"coin_tails_light":{"coin_tails_light":{"x":923,"y":617.5,"width":258,"height":259}},
+		"coin_tails":{"coin_tails":{"x":923,"y":228.5,"width":258,"height":259}},
+		"coin_edge_light":{"coin_edge_light":{"x":54.9999999999998,"y":617.5,"width":40,"height":259}},
+		"coin_edge":{"coin_edge":{"x":54.9999999999998,"y":243.5,"width":40,"height":259}},
+		"coin_frame_light":{"coin_frame_light":{"x":296,"y":626,"width":378,"height":378}},
+		"coin_frame":{"coin_frame":{"x":296,"y":229,"width":378,"height":378}},
+		"coin_red_background":{"coin_red_background":{"x":296,"y":229,"width":378,"height":378}}
+	}
+},
+"animations":{"animation":{}}
+}
